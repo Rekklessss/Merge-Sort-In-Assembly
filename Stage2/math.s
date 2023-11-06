@@ -1,4 +1,4 @@
-@ Author  Ramanuj Goel, 2020CS50437
+
 @ Modified from Division macro from https://developer.arm.com/documentation/dui0068/b/Writing-ARM-and-Thumb-Assembly-Language/Using-macros/Unsigned-integer-division-macro-example
 	.global div
 	.text

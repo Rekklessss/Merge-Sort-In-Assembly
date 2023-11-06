@@ -1,4 +1,3 @@
-@ Author: Ramanuj Goel, 2020CS50437
 
 	.global input_string
 	.global output_string
